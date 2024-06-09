@@ -4,7 +4,7 @@
 <h1 align="center">Sweetify</h1>
 <h2 align="center">App that managin our sugar intake in Indonesia</h2>
 
-<h3 align="center">Bangkit 2024 Capstone Team: C22-PS088</h3>
+<h3 align="center">Bangkit 2024 Batch 1 Capstone Team: C241-PS426</h3>
 
 #### Members
 
