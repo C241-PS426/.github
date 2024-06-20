@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/img/Logo Sweetify.png" />
+  <img align="center" width="400" src="/profile/img/1.png" />
 </p>
 <h1 align="center">Sweetify</h1>
 <h2 align="center">App that managin our sugar intake in Indonesia</h2>
